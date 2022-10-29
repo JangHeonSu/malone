@@ -6,6 +6,7 @@ void left_child(int i);
 void right_child(int i);
 int pop();
 
+// Max Heap을 이용하여N개의 수를 주어준 후 N개의 값을 입력받아 오름차순으로 출력
 // 배열값이 0 이면 노드가 없는 값으로 판별하게 해놨기 때문에 0보다 큰 값들만 가능함
 int main() {
 
