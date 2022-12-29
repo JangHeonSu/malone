@@ -1,2 +1,2 @@
 # Malone
-conquest of the world
+on my own
